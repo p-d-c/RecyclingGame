@@ -1,6 +1,6 @@
 # RecyclingGame
 
-Last updated: July 2020
+Last updated: June 2019
 
 Language: C#, JSON
 
