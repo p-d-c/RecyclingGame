@@ -2,7 +2,7 @@
 
 Last updated: June 2019
 
-Language: C#, JSON
+Languages: C#, JSON
 
 Software: Unity
 
